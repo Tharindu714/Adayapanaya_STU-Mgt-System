@@ -31,3 +31,6 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
+![image](https://github.com/user-attachments/assets/f3be0f19-30d5-4a36-b69d-e657f4e737bc)
+
